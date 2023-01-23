@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-position: center;
+    background-size: cover;
+}
+
+img {
+    width:700px;
+    height:500px;
+    border-radius:20%;
+}
+
+p{
+    font-size: 25px;
+    color:darkred;
+    background-color:blanchedalmond;
+}
+
+h1{
+    color:blueviolet;
+    background-color:rgb(187, 216, 241);
+}
